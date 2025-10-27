@@ -1,0 +1,4 @@
+﻿# 模型/精度/并行度配置示例
+model_name: "llama2-7b"
+precision: "bf16"
+max_batch_size: 32

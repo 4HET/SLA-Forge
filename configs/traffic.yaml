@@ -1,0 +1,4 @@
+﻿# 流量与到达率配置
+arrival_type: "poisson"
+arrival_rate: [10, 50, 100]   # req/s
+length_distribution: [512, 1024, 2048]
